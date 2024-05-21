@@ -1,0 +1,50 @@
+#plan-your-trip {
+  background: linear-gradient(to right, #00a2ff, #00ff77);
+  padding: 3rem;
+  color: black;
+}
+
+#plan-your-trip h2 {
+  color: azure;
+}
+
+form {
+  display: inline-block;
+  text-align: left;
+  background: white;
+  padding: 3rem;
+  border-radius: 10px;
+  width: 80%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+form label {
+  display: block;
+  margin: 1rem 0 0.5rem;
+}
+
+form input {
+  width: calc(100% - 2rem);
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+form button {
+  width: 100%;
+  padding: 10px;
+  background-color: #00a2ff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #007bb5;
+}
+
+Footer.css footer {
+  background-color: #00a2ff;
+  color: white;
+  padding: 1rem;
+}

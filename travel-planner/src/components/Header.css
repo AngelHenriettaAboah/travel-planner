@@ -1,0 +1,24 @@
+header {
+  display: flex;
+  justify-content: space-between; /* Align items on the opposite ends */
+  align-items: center; /* Center items vertically */
+  background-color: #00a2ff;
+  padding: 1rem;
+  color: white;
+}
+
+/* Style the title on the left */
+.header-title {
+  margin: 0; /* Reset margin */
+}
+
+nav {
+  display: flex; /* Make the navigation items flex children */
+}
+
+nav a {
+  margin: 0 15px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
