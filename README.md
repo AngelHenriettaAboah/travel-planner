@@ -23,15 +23,15 @@ Welcome to the Travel Planner App! This cutting-edge application, built with Rea
 
 ### Home Page
 
-![Home Page](/demo1.png)
+![Home Page](https://raw.githubusercontent.com/AngelHenriettaAboah/travel-planner/main/travel-planner/public/demo1.png)
 
 ### Form Page
 
-![Form Page]("/demo2.png")
+![Form Page](https://raw.githubusercontent.com/AngelHenriettaAboah/travel-planner/main/travel-planner/public/demo2.png)
 
 ### Trip Details Page
 
-![Trip Details Page](/demo3.png)
+![Trip Details Page](https://raw.githubusercontent.com/AngelHenriettaAboah/travel-planner/main/travel-planner/public/demo3.png)
 
 ## Installation
 
